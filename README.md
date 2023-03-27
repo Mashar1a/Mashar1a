@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mashar1a
-- 👀 I’m interested in ...Ethical Hacking, OSINT tools
+- 👀 I’m interested in ...Cyber-Security, Ethical Hacking, OSINT tools 
 - 🌱 I’m currently learning ...python3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...twitter @mashy_antony
